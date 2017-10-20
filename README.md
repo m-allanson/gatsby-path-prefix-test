@@ -1,13 +1,12 @@
-# gatsby-starter-default
-The default Gatsby starter
+# gatsby-path-prefix-example
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
+# Steps
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-example-site
-```
+- yarn install
+- yarn run build
+- yarn run gatsby serve
 
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+- Open the site at http://localhost:9000/
+- Check the errors in the browser's console
+- Click the 'Go to page 2' link
+- Note messages in the console, and that after a short delay the url changes, but the page content does not update.
