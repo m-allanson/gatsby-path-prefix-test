@@ -2,9 +2,9 @@
 
 # Steps
 
-- yarn install
-- yarn run build
-- yarn run gatsby serve
+- `yarn install`
+- `yarn run build`
+- `yarn run gatsby serve`
 
 - Open the site at http://localhost:9000/
 - Check the errors in the browser's console
